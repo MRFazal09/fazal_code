@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example of navigation bar</title>
+    <style>
+        li{float:right;}
+        li a {display:inline-block;
+        padding:8px;color:white;
+        background-color: rgb(135, 204, 25);}
+        
+    </style>
+</head>
+<body>
+    <h3><center>Coded By:-- MOHAMMED  REHAN  FAZAL:---</center></h3>
+    <h3><center>Roll No. :- 20DPIT011HY :---</center></h3><br>
+    <ul>
+        <li><a href="Home.html">Click Home Link</a></li>
+        <li><a href="News.html">Click News link</a></li>
+        <li><a href="About.html">Click About link</a></li>
+        <li><a href="Contact.html">Click Contact link</a></li>
+    </ul>
+</body>
+</html>
